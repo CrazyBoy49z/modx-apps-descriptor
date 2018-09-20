@@ -74,6 +74,7 @@ Nothing here yet.
 - [Statiker](https://modx.com/) - Statiker is a MODx Revolution Extra that generates static files from resources. 
 - [ModTree](https://modstore.pro/packages/ecommerce/modtree) - Компонент позволяет связать ресурсы сайта между собой. На странице связанные ресурсы выводятся в виде дерева.
 - [eventsCalendar2](https://modstore.pro/packages/booking/eventscalendar2) - Сниппет вывода ресурсов сайта в виде календаря событий. Может брать дату для вывода из ТВ параметра или свойства ресурса.Отлично подходит для вывода различных встреч, праздников, новостей, событий и т.д.
+- [Resource Hider](https://modx.com/extras/package/resourcehider) - Позволяет скрыть дочерние ресурсы
 
 ### Редакторы
 *Подсветка кода*
@@ -92,12 +93,16 @@ Nothing here yet.
 - [prism](https://modx.com/extras/package/prism) - аналог ColorPicker
 - [DaterangeTV](https://modx.com/extras/package/daterangetv) - новый тип TV дата
 - [TV Sorter](https://github.com/meltingmedia/TV-Sorter) - сортировка TV
-
+- [CheckboxSortable ](https://modx.com/extras/package/checkboxsortable) - сортировка чекбоксов 
+[github](https://github.com/meltingmedia/checkboxsortable) 
 
 ### Быстрое администрирование
 - [Group Edit](https://modx.com/extras/package/groupedit) - Групповое редактирование (и создание) ресурсов. Подходит для управления каталогом, новостями и т.п.
 Добавлена возможность скрывать подкатегории и товары в дереве документов.
 Возможны глючки, т.к. сыровато. Из типов ввода для ТВ пока поддерживается только Картинки. Но есть возможность открыть редактирование в новом окне и там будет как обычно со всеми типами ввода.
+- [Asides](https://modx.com/extras/package/asides) - позволяющий вам легко управлять "asides" на веб-сайте, используя куски.
+[github](https://github.com/meltingmedia/asides) 
+
 
 ### debug
 - [logPageNotFound](https://modx.com/) - Реализует лог 404 ошибок в панели администратора. Очень полезный компонент для отслеживания битых ссылок. Лог реализуется в виде ресурса, снятого с публикации.
@@ -110,6 +115,7 @@ Nothing here yet.
 ### БЕЗОПАСНОСТЬ
 - [easyBlacklist](https://modstore.pro/packages/users/easyblacklist) - простой черный список IP-адресов
 - [scannerMODX](https://modstore.pro/packages/utilities/scannermodx) - проверка директорий MODX на вирусы
+- [ResourceWatcher](https://modx.com/extras/package/resourcewatcher) - отправляет увемление о созданном или обновленном ресурсе
 
 ========================== платные пакеты
 SEOSuite - Automatically fix 404 errors on your website
